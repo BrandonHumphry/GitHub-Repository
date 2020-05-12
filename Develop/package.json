@@ -4,13 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "brandon": "node index.js"
   },
-  "author": "",
+  "author": "brandon",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.2",
     "dotenv": "^8.0.0",
-    "inquirer": "^6.5.2"
+    "inquirer": "^6.3.1"
   }
 }
